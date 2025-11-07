@@ -104,4 +104,7 @@ npm run build
 - Powered by React and Vite
 - Styled with Tailwind CSS
 
+## Demo Web
+https://imageclassifier-wbi4t02.public.builtwithrocket.new
+
 Built with ❤️ on Rocket.new
